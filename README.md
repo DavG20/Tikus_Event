@@ -10,4 +10,4 @@ Event posting and registering app
 Event sharing and registering app
 
 ## Tikus events API:
-https://github.com/Surafeljava/tikus_events_api
+https://github.com/DavG20/Tikus_Event_Api
